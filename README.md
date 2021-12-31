@@ -13,7 +13,7 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/chandan-mandi/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/chandan.mandi.3/)
 
-- 🌐 You can see some of my projects on [my portfolio](https://www.andibabu.com).
+- 🌐 You can see some of my projects on [my portfolio](https://chandanmandi.netlify.app).
 
 ## 💻 Languages and Tools:
 
